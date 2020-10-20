@@ -3,7 +3,7 @@ Data science is about using data to create as much impact as possible. Data Scie
 
 ### Table of contents
  * [Overview](#Overview)
- * [Basics required](#Basics required)
+ * [BasicsRequired](#BasicsRequired)
  * [MachineLearningAlgorithm](#Algorithm)
  
  
