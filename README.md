@@ -8,7 +8,7 @@ Data science is about using data to create as much impact as possible. Data Scie
  
  
  ### Overview
- [Linear_Regression](https://github.com/professor-4/Machine-Learning-and-Data-Science/)
+ [Linear Regression](https://github.com/professor-4/Machine-Learning-and-Data-Science/)
  ### Basics required
  ### Algorithm
  
